@@ -1,0 +1,5 @@
+涉及到的知识点有GUI可视化交互界面，调用系统后台命令，以及打包代码为exe文件
+GUI用的是内置的tkinter库
+调用系统后台命令用的是win10系统的win10toast库
+打包文件用的pyinstaller库
+以及为了解决tkinter界面卡死采用的多线程threading库的Thread类
